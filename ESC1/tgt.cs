@@ -1,3 +1,5 @@
+// Warning! This code will create a EDR alert!!
+// This is just test code, it will not work on a real scenario.
 using System;
 using System.Net;
 using System.Net.Sockets;
