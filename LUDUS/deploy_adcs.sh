@@ -58,6 +58,8 @@ fi
 # Step 0: Determine the scenario (adcs-elastic or adcs-only) from the first argument
 #         If not provided, default to adcs-elastic
 # ------------------------------------------------------------------------------
+# This way Elastic Security Agent is installed, so many local attacks will not work!!
+# ------------------------------------------------------------------------------
 SCENARIO="${1:-adcs-elastic}"
 echo "Scenario chosen: $SCENARIO"
 
