@@ -1,6 +1,7 @@
 # AD CS Security Documentation
 
 This repository contains several documents that provide an in-depth look at Active Directory Certificate Services (AD CS), including key concepts, documented attack paths (ESCs), common references, and acknowledgments ("Shoutouts") for those who contributed to the knowledge base. Below is an overview of each file in the repository along with links for easy navigation.
+Work in progress!
 
 ## File Overview
 
